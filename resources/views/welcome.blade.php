@@ -86,6 +86,7 @@
                 </div>
                     <div class="links">
                     <a href="#">Inicio</a>
+                    <a href="#">de pruebas
                     <a href="{{route('deporte.index')}}">Deporte</a>
                     <a href="#">Persona</a>
                     <a href="{{route('actor.index')}}">Actor</a>
